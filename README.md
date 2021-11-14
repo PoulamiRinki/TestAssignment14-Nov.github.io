@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html> 
     <table> 
         <tr> 
@@ -48,8 +48,10 @@
                                      <tr> 
                                          <td> <label>Gender</label> </td>
                                      </tr>
-                                     <td> <label> <input type="radio" value="f" name="gender"> Female</label> 
-                                        <label> <input value="m" type="radio" name="gender"> Male</label> </td> 
+                                     <td> 
+                                     <label> <input type="radio" value="f" name="gender"> Female</label> 
+                                        <label> <input value="m" type="radio" name="gender"> Male</label> 
+                                        </td> 
                                     </tr> 
                                     <tr> 
                                         <td> <label for="city">City</label> </td>
